@@ -1,7 +1,7 @@
 # pix2pix-runway-HansHofmann
 
 A small side project exploring pix2pix, and runwayML. 
-Trained a GAN using abstract expressionism art by Hans Hofmann.
+Trained a GAN using abstract expressionism paintings by Hans Hofmann.
 
 Model is hosted at https://curly-excited-quicksand.glitch.me/. 
 
